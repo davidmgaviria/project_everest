@@ -38,6 +38,6 @@ public class PlayerControls : MonoBehaviour {
     //check if player is touching the ground
     private bool IsGrounded(){
         //casts a box of length 1 downwards to check if character is touching the floor
-        return Physics2D.BoxCast( playerColl.bounds.center, playerColl.bounds.size, 0, Vector2.down, 1f, jumpableLayers );
+        return Physics2D.BoxCast( playerColl.bounds.center, playerColl.bounds.size, 0, Vector2.down, 0.1f, jumpableLayers );
     }
 }
