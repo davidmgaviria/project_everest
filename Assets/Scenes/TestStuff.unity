@@ -563,6 +563,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3317778053081557330, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
+      propertyPath: jumpableLayers.m_Bits
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 3317778053081557333, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
       propertyPath: m_Name
       value: Player
@@ -684,7 +688,7 @@ GameObject:
   - component: {fileID: 870541192}
   - component: {fileID: 870541191}
   - component: {fileID: 870541190}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Terrain
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -18,7 +18,6 @@ public class PlayerControls : MonoBehaviour {
     }
 
 
-
     // Update is called once per frame
     void Update() {
         dirX = player.velocity.x;
@@ -32,7 +31,6 @@ public class PlayerControls : MonoBehaviour {
         }
         player.velocity = new Vector2(dirX, dirY);
     }
-
 
 
     //check if player is touching the ground
