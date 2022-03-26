@@ -5,14 +5,16 @@ TagManager:
   serializedVersion: 2
   tags:
   - Death
+  - PlatformPoint
+  - Platform
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Terrain
   - Water
   - UI
-  - 
+  - Platform
   - 
   - 
   - 
