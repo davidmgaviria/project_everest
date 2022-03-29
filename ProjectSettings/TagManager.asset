@@ -3,15 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Death
+  - PlatformPoint
+  - Platform
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Terrain
   - Water
   - UI
-  - 
+  - Platform
   - 
   - 
   - 
@@ -38,21 +41,24 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 3619536245
-    locked: 0
-  - name: Mountain 1
-    uniqueID: 3649388793
-    locked: 0
-  - name: Mountain 2
-    uniqueID: 1925454691
-    locked: 0
-  - name: Mountain 3
-    uniqueID: 2442567409
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Terain & Snow
-    uniqueID: 21284505
+  - name: Sky
+    uniqueID: 954295425
+    locked: 0
+  - name: Clouds
+    uniqueID: 2604601037
+    locked: 0
+  - name: Mountain 1
+    uniqueID: 2572843223
+    locked: 0
+  - name: Mountain 2
+    uniqueID: 3796183461
+    locked: 0
+  - name: Mountain 3
+    uniqueID: 2404547509
+    locked: 0
+  - name: Player Terrain
+    uniqueID: 2432118505
     locked: 0

@@ -3,31 +3,39 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerControls : MonoBehaviour {
-    private Rigidbody2D rb;
+    private Rigidbody2D player;
+    private Collider2D playerColl;
     private float dirX, dirY, jumpHeight, moveSpeed;
-    private bool isGrounded;
+    [SerializeField] private LayerMask jumpableLayers;
+
+
     // Start is called before the first frame update
     void Start() {
-        rb = GetComponent<Rigidbody2D>();
-        jumpHeight = 265;
-        moveSpeed = 110;
+        player = GetComponent<Rigidbody2D>();
+        playerColl = GetComponent<Collider2D>();
+        jumpHeight = 235;
+        moveSpeed = 100;
     }
+
 
     // Update is called once per frame
     void Update() {
-        dirX = rb.velocity.x;
-        dirY = rb.velocity.y;
-
-        //get grounded state
-        if(rb.velocity.y == 0) isGrounded = true;
-        else isGrounded = false;
-
+        dirX = player.velocity.x;
+        dirY = player.velocity.y;
+        
         //horizontal movement
         dirX = moveSpeed * Input.GetAxisRaw("Horizontal");
         //vectical movement
-        if(isGrounded && Input.GetButtonDown("Jump")) {
+        if(Input.GetButtonDown("Jump") && IsGrounded()==true) {
             dirY = jumpHeight;
         }
-        rb.velocity = new Vector2(dirX, dirY);
+        player.velocity = new Vector2(dirX, dirY);
+    }
+
+
+    //check if player is touching the ground
+    private bool IsGrounded(){
+        //casts a box of length 1 downwards to check if character is touching the floor
+        return Physics2D.BoxCast( playerColl.bounds.center, playerColl.bounds.size, 0, Vector2.down, 0.1f, jumpableLayers );
     }
 }
