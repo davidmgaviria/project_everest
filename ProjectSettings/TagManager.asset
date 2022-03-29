@@ -59,6 +59,9 @@ TagManager:
   - name: Mountain 3
     uniqueID: 2404547509
     locked: 0
+  - name: Trees
+    uniqueID: 2161440039
+    locked: 0
   - name: Player Terrain
     uniqueID: 2432118505
     locked: 0
