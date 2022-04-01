@@ -1,61 +1,61 @@
 fileFormatVersion: 2
-guid: ddf75745781798949af71390fe78e0de
+guid: bc66538972907412ab3a9aae774981af
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1719982071122777992
-    second: lava_01_edge_bottom_0
+      213: 66459726504552365
+    second: Lava tiles 5_0
   - first:
-      213: 43392115737222016
-    second: lava_01_edge_bottom_1
+      213: -8458577181867135153
+    second: Lava tiles 5_1
   - first:
-      213: 1065747947125506851
-    second: lava_01_edge_bottom_2
+      213: -3924406970598272145
+    second: Lava tiles 5_2
   - first:
-      213: -8258332210216529553
-    second: lava_01_edge_bottom_3
+      213: -1360035588627088882
+    second: Lava tiles 5_3
   - first:
-      213: 4689472928642490934
-    second: lava_01_edge_bottom_4
+      213: -7972886180318154184
+    second: Lava tiles 5_4
   - first:
-      213: 2542531279692190279
-    second: lava_01_edge_bottom_5
+      213: 4196611852427614538
+    second: Lava tiles 5_5
   - first:
-      213: 2951273882165756938
-    second: lava_01_edge_bottom_6
+      213: 8786533115172954101
+    second: Lava tiles 5_6
   - first:
-      213: -1311422072660917566
-    second: lava_01_edge_bottom_7
+      213: 4510021069155622432
+    second: Lava tiles 5_7
   - first:
-      213: 7971268916607455318
-    second: lava_01_edge_bottom_8
+      213: -2184139282625764438
+    second: Lava tiles 5_8
   - first:
-      213: -6509351617627447067
-    second: lava_01_edge_bottom_9
+      213: 125779932299323176
+    second: Lava tiles 5_9
   - first:
-      213: 2999502709233273157
-    second: lava_01_edge_bottom_10
+      213: -2180532309808455485
+    second: Lava tiles 5_10
   - first:
-      213: 1841278775036935788
-    second: lava_01_edge_bottom_11
+      213: -702795937962075274
+    second: Lava tiles 5_11
   - first:
-      213: -751392303116511978
-    second: lava_01_edge_bottom_12
+      213: -6236441257265966373
+    second: Lava tiles 5_12
   - first:
-      213: 7416809498624546363
-    second: lava_01_edge_bottom_13
+      213: 8277436618541045101
+    second: Lava tiles 5_13
   - first:
-      213: 6943939744682068180
-    second: lava_01_edge_bottom_14
+      213: 8912837309855506596
+    second: Lava tiles 5_14
   - first:
-      213: -1495481337486216949
-    second: lava_01_edge_bottom_15
+      213: -7221311424087705822
+    second: Lava tiles 5_15
   - first:
-      213: 5511735658201797197
-    second: lava_01_edge_bottom_16
+      213: 3763528518119459939
+    second: Lava tiles 5_16
   - first:
-      213: 3637388070523854312
-    second: lava_01_edge_bottom_17
+      213: 8221413957184842630
+    second: Lava tiles 5_17
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -115,7 +115,7 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -140,12 +140,12 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: lava_01_edge_bottom_0
+      name: Lava tiles 5_0
       rect:
         serializedVersion: 2
         x: 0
@@ -159,18 +159,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 878afae4b656128e0800000000000000
-      internalID: -1719982071122777992
+      spriteID: da76c26e4cc1ce000800000000000000
+      internalID: 66459726504552365
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_1
+      name: Lava tiles 5_1
       rect:
         serializedVersion: 2
         x: 190
-        y: 379
+        y: 380
         width: 190
         height: 190
       alignment: 0
@@ -180,14 +180,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08bd19c36e82a9000800000000000000
-      internalID: 43392115737222016
+      spriteID: f4fa5995ed81d9a80800000000000000
+      internalID: -8458577181867135153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_2
+      name: Lava tiles 5_2
       rect:
         serializedVersion: 2
         x: 380
@@ -201,14 +201,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32384808c1c4ace00800000000000000
-      internalID: 1065747947125506851
+      spriteID: f635c6317a4b989c0800000000000000
+      internalID: -3924406970598272145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_3
+      name: Lava tiles 5_3
       rect:
         serializedVersion: 2
         x: 570
@@ -222,14 +222,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6190ecfb92846d80800000000000000
-      internalID: -8258332210216529553
+      spriteID: e0a3ef186de202de0800000000000000
+      internalID: -1360035588627088882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_4
+      name: Lava tiles 5_4
       rect:
         serializedVersion: 2
         x: 760
@@ -243,14 +243,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 632eb8f58ca541140800000000000000
-      internalID: 4689472928642490934
+      spriteID: 832f38bd24e9a5190800000000000000
+      internalID: -7972886180318154184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_5
+      name: Lava tiles 5_5
       rect:
         serializedVersion: 2
         x: 950
@@ -264,14 +264,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7425f5c5ab2e84320800000000000000
-      internalID: 2542531279692190279
+      spriteID: a495424ce3c5d3a30800000000000000
+      internalID: 4196611852427614538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_6
+      name: Lava tiles 5_6
       rect:
         serializedVersion: 2
         x: 0
@@ -285,14 +285,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a04c06595f705f820800000000000000
-      internalID: 2951273882165756938
+      spriteID: 5ff1711b05900f970800000000000000
+      internalID: 8786533115172954101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_7
+      name: Lava tiles 5_7
       rect:
         serializedVersion: 2
         x: 190
@@ -306,14 +306,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c28078b294eccde0800000000000000
-      internalID: -1311422072660917566
+      spriteID: 02e5c8c6440d69e30800000000000000
+      internalID: 4510021069155622432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_8
+      name: Lava tiles 5_8
       rect:
         serializedVersion: 2
         x: 380
@@ -327,14 +327,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 650108798d2af9e60800000000000000
-      internalID: 7971268916607455318
+      spriteID: aa36d1ff4e060b1e0800000000000000
+      internalID: -2184139282625764438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_9
+      name: Lava tiles 5_9
       rect:
         serializedVersion: 2
         x: 570
@@ -348,14 +348,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e0a33911332aa5a0800000000000000
-      internalID: -6509351617627447067
+      spriteID: 827e2989e2cdeb100800000000000000
+      internalID: 125779932299323176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_10
+      name: Lava tiles 5_10
       rect:
         serializedVersion: 2
         x: 760
@@ -369,14 +369,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 549cbae62df50a920800000000000000
-      internalID: 2999502709233273157
+      spriteID: 3c0ea9cca613db1e0800000000000000
+      internalID: -2180532309808455485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_11
+      name: Lava tiles 5_11
       rect:
         serializedVersion: 2
         x: 950
@@ -390,14 +390,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6efa865a498d8910800000000000000
-      internalID: 1841278775036935788
+      spriteID: 67bde2861da2f36f0800000000000000
+      internalID: -702795937962075274
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_12
+      name: Lava tiles 5_12
       rect:
         serializedVersion: 2
         x: 0
@@ -411,14 +411,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61517cd6ea48295f0800000000000000
-      internalID: -751392303116511978
+      spriteID: bd25216f7b5b379a0800000000000000
+      internalID: -6236441257265966373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_13
+      name: Lava tiles 5_13
       rect:
         serializedVersion: 2
         x: 190
@@ -432,14 +432,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b36524c61fccde660800000000000000
-      internalID: 7416809498624546363
+      spriteID: d6513f2bfbc5fd270800000000000000
+      internalID: 8277436618541045101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_14
+      name: Lava tiles 5_14
       rect:
         serializedVersion: 2
         x: 380
@@ -453,14 +453,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d8cd7f3864dd5060800000000000000
-      internalID: 6943939744682068180
+      spriteID: 4a029c2af42c0bb70800000000000000
+      internalID: 8912837309855506596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_15
+      name: Lava tiles 5_15
       rect:
         serializedVersion: 2
         x: 570
@@ -474,14 +474,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0178ee95abfe3be0800000000000000
-      internalID: -1495481337486216949
+      spriteID: 22738ca158fb8cb90800000000000000
+      internalID: -7221311424087705822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_16
+      name: Lava tiles 5_16
       rect:
         serializedVersion: 2
         x: 760
@@ -495,14 +495,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d42d8f2f06e9d7c40800000000000000
-      internalID: 5511735658201797197
+      spriteID: 36c00984f3dba3430800000000000000
+      internalID: 3763528518119459939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lava_01_edge_bottom_17
+      name: Lava tiles 5_17
       rect:
         serializedVersion: 2
         x: 950
@@ -516,8 +516,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ed51ddad299a7230800000000000000
-      internalID: 3637388070523854312
+      spriteID: 68be0756f64581270800000000000000
+      internalID: 8221413957184842630
       vertices: []
       indices: 
       edges: []
@@ -525,7 +525,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b097d895f0534514e83c1cf7b0d007ac
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
