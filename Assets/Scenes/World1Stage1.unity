@@ -187,6 +187,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3317778053081557328, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
+      propertyPath: m_Mass
+      value: 176.33984
+      objectReference: {fileID: 0}
+    - target: {fileID: 3317778053081557328, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
+      propertyPath: m_UseAutoMass
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3317778053081557333, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
       propertyPath: m_Name
       value: Player
@@ -8612,6 +8620,63 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 3317778053081557333, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
   m_PrefabInstance: {fileID: 79880723}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &195931562340951564
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 195931561481436320, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: m_Name
+      value: The Avalanche
+      objectReference: {fileID: 0}
+    - target: {fileID: 195931561481436323, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 195931561481436323, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 269
+      objectReference: {fileID: 0}
+    - target: {fileID: 195931561481436323, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 310
+      objectReference: {fileID: 0}
+    - target: {fileID: 195931561481436323, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 195931561481436323, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 195931561481436323, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 195931561481436323, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 195931561481436323, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 195931561481436323, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 195931561481436323, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 195931561481436323, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
 --- !u!1001 &4124038366430968983
 PrefabInstance:
   m_ObjectHideFlags: 0
