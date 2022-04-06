@@ -95,6 +95,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52237a108a4dd0d4b8f25eddafd6559c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  boulderPrefab: {fileID: 6471467043193070506, guid: 23e0f6d02e5378f449ac81b05db3e5c6, type: 3}
+  boulderPrefabs:
+  - {fileID: 6471467043193070506, guid: afe3eb7dea41c4b428096b5c0fa3c956, type: 3}
+  - {fileID: 7497144915942149040, guid: 94637037356007e4fa4a0434c0a63963, type: 3}
+  - {fileID: 8621996781408850377, guid: 8a94b83a6c46bc54fb612cef5e3bff85, type: 3}
+  - {fileID: 799496672062581333, guid: ac3b59c2fd819694f81e4b3380dfa59c, type: 3}
+  - {fileID: 9151537690508706293, guid: 9cfe8679e7ea01047b88f97db5a3e340, type: 3}
+  - {fileID: 8275612316567513650, guid: bacc00a968672574cafa441e53e79656, type: 3}
   respawnDelay: 13
   boulderNumber: 30
