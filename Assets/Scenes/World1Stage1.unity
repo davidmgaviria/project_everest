@@ -7491,7 +7491,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
   m_MaxChunkCount: 16
@@ -8631,6 +8631,34 @@ PrefabInstance:
       propertyPath: m_Name
       value: The Avalanche
       objectReference: {fileID: 0}
+    - target: {fileID: 195931561481436321, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: boulderPrefabs.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 195931561481436321, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: boulderPrefabs.Array.data[0]
+      value: 
+      objectReference: {fileID: 6471467043193070506, guid: 23e0f6d02e5378f449ac81b05db3e5c6, type: 3}
+    - target: {fileID: 195931561481436321, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: boulderPrefabs.Array.data[1]
+      value: 
+      objectReference: {fileID: 6892179810471874566, guid: 9a78133c91e49444e8a0849e23a14345, type: 3}
+    - target: {fileID: 195931561481436321, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: boulderPrefabs.Array.data[2]
+      value: 
+      objectReference: {fileID: 3302561257833229190, guid: 3d300d177c2f5e94ba1d011985889a0a, type: 3}
+    - target: {fileID: 195931561481436321, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: boulderPrefabs.Array.data[3]
+      value: 
+      objectReference: {fileID: 1843938295388832764, guid: dd9df4815024d4443b49497939ab1f7e, type: 3}
+    - target: {fileID: 195931561481436321, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: boulderPrefabs.Array.data[4]
+      value: 
+      objectReference: {fileID: 5320901199224000337, guid: be3576bc6d55c9b4590b93a55641a7fc, type: 3}
+    - target: {fileID: 195931561481436321, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
+      propertyPath: boulderPrefabs.Array.data[5]
+      value: 
+      objectReference: {fileID: 3875976560693767393, guid: 76d726093b27d5f4eb60118bc9389f41, type: 3}
     - target: {fileID: 195931561481436323, guid: 9f24811f3a0e939408caf656b28dd7bd, type: 3}
       propertyPath: m_RootOrder
       value: 3
