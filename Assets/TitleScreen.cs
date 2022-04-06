@@ -5,13 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class TitleScreen : MonoBehaviour
 {
-    public void Switch ()
-    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-    }
+    
     public void PlayGame ()
     {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
     
     
