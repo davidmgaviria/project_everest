@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: 7233bfffb636afe40980d2d47d4e7ce5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5458722587176902192
+    second: Lava_03_edge 2_0
+  - first:
+      213: -6295899140057101436
+    second: Lava_03_edge 2_1
+  - first:
+      213: -5706691789214317809
+    second: Lava_03_edge 2_2
+  - first:
+      213: 6499954092858452034
+    second: Lava_03_edge 2_3
+  - first:
+      213: 4135925502304448214
+    second: Lava_03_edge 2_4
+  - first:
+      213: -7982842533870659775
+    second: Lava_03_edge 2_5
+  - first:
+      213: 3650314821371207138
+    second: Lava_03_edge 2_6
+  - first:
+      213: -7787769827305209766
+    second: Lava_03_edge 2_7
+  - first:
+      213: -3526223495611522486
+    second: Lava_03_edge 2_8
+  - first:
+      213: 6329841026096761686
+    second: Lava_03_edge 2_9
+  - first:
+      213: -1019994467274020701
+    second: Lava_03_edge 2_10
+  - first:
+      213: 3186246383895549640
+    second: Lava_03_edge 2_11
+  - first:
+      213: 3928710686878726757
+    second: Lava_03_edge 2_12
+  - first:
+      213: 1374456431146996803
+    second: Lava_03_edge 2_13
+  - first:
+      213: 6200216959355156873
+    second: Lava_03_edge 2_14
+  - first:
+      213: -8745809288354808628
+    second: Lava_03_edge 2_15
+  - first:
+      213: -723383633730576102
+    second: Lava_03_edge 2_16
+  - first:
+      213: 3514840053247950041
+    second: Lava_03_edge 2_17
+  - first:
+      213: 8443382021304330269
+    second: Lava_03_edge 2_18
+  - first:
+      213: -6305914155886660353
+    second: Lava_03_edge 2_19
+  - first:
+      213: 361439301575464914
+    second: Lava_03_edge 2_20
+  - first:
+      213: -3526088012618468167
+    second: Lava_03_edge 2_21
+  - first:
+      213: -6634607460087035333
+    second: Lava_03_edge 2_22
+  - first:
+      213: 8865513099085458013
+    second: Lava_03_edge 2_23
+  - first:
+      213: -6012855529529935430
+    second: Lava_03_edge 2_24
+  - first:
+      213: -5424418419031259622
+    second: Lava_03_edge 2_25
+  - first:
+      213: 6990683850312465152
+    second: Lava_03_edge 2_26
+  - first:
+      213: 630816214130403337
+    second: Lava_03_edge 2_27
+  - first:
+      213: -2790996441994867832
+    second: Lava_03_edge 2_28
+  - first:
+      213: 98043993874068141
+    second: Lava_03_edge 2_29
+  - first:
+      213: 4406296709707080788
+    second: Lava_03_edge 2_30
+  - first:
+      213: -4375389642341204456
+    second: Lava_03_edge 2_31
+  - first:
+      213: -2072810123284808586
+    second: Lava_03_edge 2_32
+  - first:
+      213: 4640612904768001208
+    second: Lava_03_edge 2_33
+  - first:
+      213: 8420233836921055242
+    second: Lava_03_edge 2_34
+  - first:
+      213: 8143232867750946943
+    second: Lava_03_edge 2_35
+  - first:
+      213: -2253753890767248475
+    second: Lava_03_edge 2_36
+  - first:
+      213: -1056441538586991041
+    second: Lava_03_edge 2_37
+  - first:
+      213: -4144383756193222375
+    second: Lava_03_edge 2_38
+  - first:
+      213: -6381936388550739123
+    second: Lava_03_edge 2_39
+  - first:
+      213: -6439276595227962306
+    second: Lava_03_edge 2_40
+  - first:
+      213: -2388429972622529797
+    second: Lava_03_edge 2_41
+  - first:
+      213: -6144863402645133975
+    second: Lava_03_edge 2_42
+  - first:
+      213: -828047205635904322
+    second: Lava_03_edge 2_43
+  - first:
+      213: 3390084314120060271
+    second: Lava_03_edge 2_44
+  - first:
+      213: 696346290466551753
+    second: Lava_03_edge 2_45
+  - first:
+      213: -3050087604107649420
+    second: Lava_03_edge 2_46
+  - first:
+      213: -7407818582670071019
+    second: Lava_03_edge 2_47
+  - first:
+      213: 106682237040349130
+    second: Lava_03_edge 2_48
+  - first:
+      213: 5358059475569435532
+    second: Lava_03_edge 2_49
+  - first:
+      213: 3356652626491653971
+    second: Lava_03_edge 2_50
+  - first:
+      213: -5625159912183183776
+    second: Lava_03_edge 2_51
+  - first:
+      213: 7361816902625251945
+    second: Lava_03_edge 2_52
+  - first:
+      213: -4638723042797629285
+    second: Lava_03_edge 2_53
+  - first:
+      213: 1239405754557236544
+    second: Lava_03_edge 2_54
+  - first:
+      213: -5809083736793432019
+    second: Lava_03_edge 2_55
+  - first:
+      213: 6317705236806050526
+    second: Lava_03_edge 2_56
+  - first:
+      213: 2421428441268177760
+    second: Lava_03_edge 2_57
+  - first:
+      213: 3337385188676210725
+    second: Lava_03_edge 2_58
+  - first:
+      213: 4902310321330312876
+    second: Lava_03_edge 2_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lava_03_edge 2_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 924
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d16bef7ab8be34b0800000000000000
+      internalID: -5458722587176902192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 924
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b8537d61970a8a0800000000000000
+      internalID: -6295899140057101436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 924
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f030e359d02cdc0b0800000000000000
+      internalID: -5706691789214317809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 924
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248ac292fc9743a50800000000000000
+      internalID: 6499954092858452034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 924
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dee55ec452c56930800000000000000
+      internalID: 4135925502304448214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 924
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14792c6a20f373190800000000000000
+      internalID: -7982842533870659775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 824
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed9c266df588a230800000000000000
+      internalID: 3650314821371207138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 824
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c7fa7a984ce390800000000000000
+      internalID: -7787769827305209766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 824
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a426079d966501fc0800000000000000
+      internalID: -3526223495611522486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 824
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b013550ec18d750800000000000000
+      internalID: 6329841026096761686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 824
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8a449af6048d1f0800000000000000
+      internalID: -1019994467274020701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 824
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c697f66432d73c20800000000000000
+      internalID: 3186246383895549640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 724
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56affa4fd85958630800000000000000
+      internalID: 3928710686878726757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 724
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34494c987dc031310800000000000000
+      internalID: 1374456431146996803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 724
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98977b079789b0650800000000000000
+      internalID: 6200216959355156873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 724
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccbc4e1ac4a0a680800000000000000
+      internalID: -8745809288354808628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_16
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 724
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a116823fa6606f5f0800000000000000
+      internalID: -723383633730576102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 724
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcb820f76837c030800000000000000
+      internalID: 3514840053247950041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 624
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18a3c2a63bec2570800000000000000
+      internalID: 8443382021304330269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 624
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4b4424c74ec78a0800000000000000
+      internalID: -6305914155886660353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7554a3127140500800000000000000
+      internalID: 361439301575464914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 624
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4fc1172a1d01fc0800000000000000
+      internalID: -3526088012618468167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 624
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a0b5daaa32de3a0800000000000000
+      internalID: -6634607460087035333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_23
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 624
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aaf8e2131a80b70800000000000000
+      internalID: 8865513099085458013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 524
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9ff9cd0cb0e8ca0800000000000000
+      internalID: -6012855529529935430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 524
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a164e8c003898b4b0800000000000000
+      internalID: -5424418419031259622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 524
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b3fe27ce5e30160800000000000000
+      internalID: 6990683850312465152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_27
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 524
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908acc9210c11c800800000000000000
+      internalID: 630816214130403337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_28
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 524
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b4489f5836449d0800000000000000
+      internalID: -2790996441994867832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_29
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 524
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da279333e725c5100800000000000000
+      internalID: 98043993874068141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 424
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454201d038f462d30800000000000000
+      internalID: 4406296709707080788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 424
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e34565d4e7743c0800000000000000
+      internalID: -4375389642341204456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 424
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c76c2dc26eb33e0800000000000000
+      internalID: -2072810123284808586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 424
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b45ac099d4c66040800000000000000
+      internalID: 4640612904768001208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_34
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 424
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a086767ff0eaad470800000000000000
+      internalID: 8420233836921055242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 424
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78a4950623920170800000000000000
+      internalID: 8143232867750946943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 324
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3e9a9f6ce09b0e0800000000000000
+      internalID: -2253753890767248475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 324
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f362e869404c651f0800000000000000
+      internalID: -1056441538586991041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 324
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911343f7ee03c76c0800000000000000
+      internalID: -4144383756193222375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_39
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 324
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3b45eaaece67a0800000000000000
+      internalID: -6381936388550739123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_40
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 324
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3453faad0813a6a0800000000000000
+      internalID: -6439276595227962306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_41
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 324
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa20f628979aded0800000000000000
+      internalID: -2388429972622529797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 224
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965e90cca4f09baa0800000000000000
+      internalID: -6144863402645133975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_43
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 224
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc21d2247f2284f0800000000000000
+      internalID: -828047205635904322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dffb5e8bffb0f20800000000000000
+      internalID: 3390084314120060271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 224
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c77be3034be9a900800000000000000
+      internalID: 696346290466551753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_46
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 224
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e575feb79eba5d0800000000000000
+      internalID: -3050087604107649420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_47
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 224
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba9635f34223990800000000000000
+      internalID: -7407818582670071019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 124
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf42aaede20b7100800000000000000
+      internalID: 106682237040349130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_49
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 124
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c836bbe64b6ab5a40800000000000000
+      internalID: 5358059475569435532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 124
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fba6c87c9359e20800000000000000
+      internalID: 3356652626491653971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_51
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 124
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066cd8dfcda6fe1b0800000000000000
+      internalID: -5625159912183183776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_52
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 124
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962d176e77d6a2660800000000000000
+      internalID: 7361816902625251945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_53
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 124
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90d0a638f1ff9fb0800000000000000
+      internalID: -4638723042797629285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04585f497f0433110800000000000000
+      internalID: 1239405754557236544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_55
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 24
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20cde58e1df16fa0800000000000000
+      internalID: -5809083736793432019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed22373b07ffca750800000000000000
+      internalID: 6317705236806050526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 24
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b41da8654aa9120800000000000000
+      internalID: 2421428441268177760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_58
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 24
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52012b99526c05e20800000000000000
+      internalID: 3337385188676210725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava_03_edge 2_59
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 24
+        width: 100
+        height: 100
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6df918341880440800000000000000
+      internalID: 4902310321330312876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fdc76f0f205284f43931fc98a35d1646
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
