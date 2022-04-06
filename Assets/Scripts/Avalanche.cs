@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Avalanche : MonoBehaviour {
-    public List<GameObject> boulderPrefabs;
+    public GameObject boulderPrefab;
     public float respawnDelay = 15f;
     public int boulderNumber = 50;
 
@@ -26,16 +26,11 @@ public class Avalanche : MonoBehaviour {
     //Routine that spawns a wave of boulders ever "respawnDelay" seconds
     IEnumerator SpawnBoulderWave() {
         while(true) {
-            //wait for respawnDelay seconds to pass
             yield return new WaitForSeconds(respawnDelay);
-            
             //once time is up, spawn boulders
             for(int i=0; i<boulderNumber; i++) { 
-                //randomly choose a variant to generate
-                int prefabIndex = UnityEngine.Random.Range(0, boulderPrefabs.Count-1);
-                GameObject a = Instantiate(boulderPrefabs[prefabIndex]) as GameObject;
+                GameObject a = Instantiate(boulderPrefab) as GameObject;
                 a.transform.position = new Vector2(Random.Range(leftEndpoint, rightEndpoint) , spawnHeight);
-                //wait a frame before generating a new boulder
                 yield return null;
             }
             Debug.Log("Spawned Avalanche");
