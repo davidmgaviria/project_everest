@@ -7,7 +7,6 @@ TagManager:
   - Death
   - PlatformPoint
   - Platform
-  - Boulder
   layers:
   - Default
   - TransparentFX
