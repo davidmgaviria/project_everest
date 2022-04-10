@@ -8,6 +8,7 @@ TagManager:
   - PlatformPoint
   - Platform
   - Boulder
+  - Level End
   layers:
   - Default
   - TransparentFX
