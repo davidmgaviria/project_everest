@@ -9,27 +9,20 @@ public class PlayerDeath : MonoBehaviour
     private float xCoords;
     private float yCoords;
 
-    private void Start()
-    {
-        rb = GetComponent<Rigidbody2D>();
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Death") || collision.gameObject.CompareTag("Boulder"))
-        {
+    private void OnCollisionEnter2D(Collision2D collision)  {
+        if (collision.gameObject.CompareTag("Death") || collision.gameObject.CompareTag("Boulder")) {
             Die();
         }
     }
 
-    private void Die()
-    {
-        // rb.bodyType = RigidbodyType2D.Static;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-    }
+    private void Die() {
+        //update player stats & coin display
+        PlayerStats.deathCount++;
+        PlayerStats.gameScore -= PlayerStats.deathScorePenalty;
+        gameObject.GetComponent<CoinCollector>().updateScoreDisplay();
 
-    // private void RestartLevel()
-    // {
-    //     SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-    // }
+        //change player & camera position
+        transform.position = PlayerStats.spawnPoint;
+        //Camera.main.position = PlayerStats.spawnPoint;
+    }
 }
