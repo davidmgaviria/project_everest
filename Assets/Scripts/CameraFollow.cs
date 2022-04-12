@@ -57,8 +57,7 @@ public class CameraFollow : MonoBehaviour {
         Gizmos.color = Color.red;
         Vector2 border = calculateThreshold();
         Gizmos.DrawWireCube( transform.position, new Vector3(border.x*2, border.y*2, 1) );
-    }
-    
+    }    
 }
 
 
