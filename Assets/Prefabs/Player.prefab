@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5821995125625465905}
   - component: {fileID: 3317778053081557330}
   - component: {fileID: 3317778053081557343}
-  - component: {fileID: 8484942843465875519}
+  - component: {fileID: 5860220800831809197}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -161,7 +161,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33179a0509e823a43967ce0458dd9f1a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &8484942843465875519
+--- !u!114 &5860220800831809197
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -170,8 +170,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 3317778053081557333}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7db74ee54b5b0420eb08e7420f22af62, type: 3}
+  m_Script: {fileID: 11500000, guid: 862c8c7940c82cb499cbf4baec41c6c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TotalCoins: 0
-  txt: {fileID: 0}
+  scoreText: {fileID: 0}
