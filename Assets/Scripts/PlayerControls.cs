@@ -14,8 +14,7 @@ public class PlayerControls : MonoBehaviour {
         player = GetComponent<Rigidbody2D>();
         playerColl = GetComponent<Collider2D>();
         jumpHeight = 235;
-        moveSpeed = 115;
-        PlayerStats.spawnPoint = transform.position;
+        moveSpeed = 100;
     }
 
 
@@ -37,6 +36,6 @@ public class PlayerControls : MonoBehaviour {
     //check if player is touching the ground
     private bool IsGrounded(){
         //casts a box of length 1 downwards to check if character is touching the floor
-        return Physics2D.BoxCast( playerColl.bounds.center, playerColl.bounds.size, 0, Vector2.down, 2.5f, jumpableLayers );
+        return Physics2D.BoxCast( playerColl.bounds.center, playerColl.bounds.size, 0, Vector2.down, 0.1f, jumpableLayers );
     }
 }
