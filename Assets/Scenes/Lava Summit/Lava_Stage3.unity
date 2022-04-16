@@ -1051,18 +1051,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5641919778646422594, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
-      propertyPath: scoreText
-      value: 
-      objectReference: {fileID: 1072260677}
-    - target: {fileID: 8484942843465875519, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
-      propertyPath: txt
-      value: 
-      objectReference: {fileID: 1072260677}
-    - target: {fileID: 8484942843465875519, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
-      propertyPath: scoreText
-      value: 
-      objectReference: {fileID: 1072260677}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
 --- !u!1 &432584917 stripped
@@ -2288,7 +2276,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4124038365770783528, guid: 4258d1eac2ab13548a60c18c0dca18e6, type: 3}
       propertyPath: m_Name
-      value: Main Camera (1)
+      value: Main Camera
       objectReference: {fileID: 0}
     - target: {fileID: 4124038365770783572, guid: 4258d1eac2ab13548a60c18c0dca18e6, type: 3}
       propertyPath: m_RootOrder
@@ -2901,17 +2889,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9b32b58c4d8843c6978005f21996961, type: 3}
---- !u!114 &1072260677 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2610584783752951763, guid: c9b32b58c4d8843c6978005f21996961, type: 3}
-  m_PrefabInstance: {fileID: 1072260676}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1073642186
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -5,9 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class PlayerDeath : MonoBehaviour
 {
-    private Rigidbody2D rb;
-    private float xCoords;
-    private float yCoords;
+    
+    private GameObject mainCamera;
+
+    private void Start () {
+        mainCamera = GameObject.FindGameObjectWithTag("MainCamera");
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)  {
         if (collision.gameObject.CompareTag("Death") || collision.gameObject.CompareTag("Boulder")) {
@@ -18,11 +21,11 @@ public class PlayerDeath : MonoBehaviour
     private void Die() {
         //update player stats & coin display
         PlayerStats.deathCount++;
-        PlayerStats.gameScore -= PlayerStats.deathScorePenalty;
+        PlayerStats.gameScore += PlayerStats.deathScorePenalty;
         gameObject.GetComponent<CoinCollector>().updateScoreDisplay();
 
         //change player & camera position
         transform.position = PlayerStats.spawnPoint;
-        //Camera.main.position = PlayerStats.spawnPoint;
+        mainCamera.GetComponent<CameraFollow>().cameraToPlayer();
     }
 }

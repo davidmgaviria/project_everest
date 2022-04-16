@@ -7592,14 +7592,6 @@ PrefabInstance:
       propertyPath: scoreText
       value: 
       objectReference: {fileID: 639662173}
-    - target: {fileID: 8484942843465875519, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
-      propertyPath: txt
-      value: 
-      objectReference: {fileID: 639662173}
-    - target: {fileID: 8484942843465875519, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
-      propertyPath: scoreText
-      value: 
-      objectReference: {fileID: 639662173}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
 --- !u!1 &1040961338
@@ -10644,7 +10636,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3970967303065876042, guid: 5fe987493f6234a43a3eb0ac02457c2a, type: 3}
       propertyPath: nextScene
-      value: World1Stage2
+      value: Ice_Stage2
       objectReference: {fileID: 0}
     - target: {fileID: 3970967303065876043, guid: 5fe987493f6234a43a3eb0ac02457c2a, type: 3}
       propertyPath: m_Name
