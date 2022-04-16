@@ -195,6 +195,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: -0.08
       objectReference: {fileID: 0}
+    - target: {fileID: 5860220800831809197, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
+      propertyPath: scoreText
+      value: 
+      objectReference: {fileID: 1453445417}
     - target: {fileID: 8484942843465875519, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
       propertyPath: scoreText
       value: 
