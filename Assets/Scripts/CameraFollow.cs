@@ -9,9 +9,12 @@ public class CameraFollow : MonoBehaviour {
     public float defaultSpeed;
     private Rigidbody2D rb;
 
+    float cameraZ;
+
 
     // Start is called before the first frame update
     void Start() {
+        cameraZ = transform.position.z;
         threshold = calculateThreshold();
         rb = followObject.GetComponent<Rigidbody2D>();
     }
@@ -49,6 +52,12 @@ public class CameraFollow : MonoBehaviour {
         t.x -= followOffset.x;
         t.y -= followOffset.y;
         return t;
+    }
+
+    public void cameraToPlayer() {
+        //only change x and y, changing Z will cause the Camera to zoom in
+        Vector3 newCameraPos = followObject.transform.position;
+        transform.position = new Vector3(newCameraPos.x, newCameraPos.y, cameraZ);
     }
 
 

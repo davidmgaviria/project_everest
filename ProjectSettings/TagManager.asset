@@ -9,6 +9,8 @@ TagManager:
   - Platform
   - Boulder
   - Level End
+  - coin
+  - CoinDisplay
   layers:
   - Default
   - TransparentFX

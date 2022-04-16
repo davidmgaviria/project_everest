@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2610584783752951763}
   m_Layer: 5
   m_Name: TotalCoins
-  m_TagString: Untagged
+  m_TagString: CoinDisplay
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

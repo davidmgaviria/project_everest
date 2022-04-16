@@ -7,10 +7,13 @@ using TMPro;
 public class CoinCollector : MonoBehaviour
 {
     
-    public TextMeshProUGUI scoreText;
+    private TextMeshProUGUI scoreText;
+    private GameObject coinTextObject;
 
     //when level loads we want score to show the current value
     private void Start() {
+        coinTextObject = GameObject.FindGameObjectWithTag("CoinDisplay");
+        scoreText = coinTextObject.GetComponent<TextMeshProUGUI>();
         updateScoreDisplay();
     }
 
