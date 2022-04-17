@@ -10,7 +10,21 @@ public class TitleScreen : MonoBehaviour
     {
        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
+
+    public void iceWorld ()
+    {
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
     
+    public void lavaWorld ()
+    {
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+    }
+
+    public void graveyardWorld ()
+    {
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 3);
+    }
     
 
 

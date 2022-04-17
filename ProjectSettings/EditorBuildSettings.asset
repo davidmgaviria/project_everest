@@ -29,4 +29,31 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ice Summit Levels/Ice_Stage6.unity
     guid: b47340970a808f34ea669fe28513fc9f
+  - enabled: 1
+    path: Assets/Scenes/Graveyard Summit Levels/Graveyard_Stage1.unity
+    guid: 3eb6113ab3823443196fd02b8dd5bc51
+  - enabled: 1
+    path: Assets/Scenes/Graveyard Summit Levels/Graveyard_Stage2.unity
+    guid: b13ccf52c2b974f1b8bcfdbf5f13a7fd
+  - enabled: 1
+    path: Assets/Scenes/Graveyard Summit Levels/Graveyard_Stage3.unity
+    guid: 9e8b77edba3b241b8878a5c67a14046e
+  - enabled: 1
+    path: Assets/Scenes/Graveyard Summit Levels/Graveyard_Stage4.unity
+    guid: 87512b25010ceee40b7aad60a15d2446
+  - enabled: 1
+    path: Assets/Scenes/Graveyard Summit Levels/Graveyard_Stage5.unity
+    guid: 49725a37aef704d7f977ba2c7721c3e8
+  - enabled: 1
+    path: Assets/Scenes/Lava Summit Levels/Lava_Stage1.unity
+    guid: afbef751c972bfe4387c76e4d0cc0163
+  - enabled: 1
+    path: Assets/Scenes/Lava Summit Levels/Lava_Stage2.unity
+    guid: 51f01381a38164d92a65cfde2b065acf
+  - enabled: 1
+    path: Assets/Scenes/Lava Summit Levels/Lava_Stage3.unity
+    guid: cb2166aaa07ca4498b9d0bf2c5341d22
+  - enabled: 1
+    path: Assets/Scenes/Lava Summit Levels/Lava_Stage4.unity
+    guid: 55efba59dbb7e49e28934f3f3fdfd894
   m_configObjects: {}
