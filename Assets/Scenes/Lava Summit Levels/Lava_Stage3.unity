@@ -10869,6 +10869,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3970967303065876041, guid: 5fe987493f6234a43a3eb0ac02457c2a, type: 3}
+      propertyPath: m_Size.x
+      value: 0.70104015
+      objectReference: {fileID: 0}
+    - target: {fileID: 3970967303065876041, guid: 5fe987493f6234a43a3eb0ac02457c2a, type: 3}
+      propertyPath: m_Size.y
+      value: 0.7420527
+      objectReference: {fileID: 0}
+    - target: {fileID: 3970967303065876041, guid: 5fe987493f6234a43a3eb0ac02457c2a, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.04339783
+      objectReference: {fileID: 0}
+    - target: {fileID: 3970967303065876041, guid: 5fe987493f6234a43a3eb0ac02457c2a, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.12897366
+      objectReference: {fileID: 0}
     - target: {fileID: 3970967303065876042, guid: 5fe987493f6234a43a3eb0ac02457c2a, type: 3}
       propertyPath: nextScene
       value: Lava_Stage4
