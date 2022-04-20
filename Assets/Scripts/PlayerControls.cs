@@ -6,6 +6,8 @@ public class PlayerControls : MonoBehaviour {
     private Rigidbody2D player;
     private Collider2D playerColl;
     private float dirX, dirY, jumpHeight, moveSpeed;
+    private string playerFacing;
+    private float scaleX, scaleY, scaleZ;
     [SerializeField] private LayerMask jumpableLayers;
 
 
@@ -16,6 +18,10 @@ public class PlayerControls : MonoBehaviour {
         jumpHeight = 235;
         moveSpeed = 115;
         PlayerStats.spawnPoint = transform.position;
+        playerFacing = "Right";
+        scaleX = transform.localScale.x;
+        scaleY = transform.localScale.y;
+        scaleZ = transform.localScale.z;
     }
 
 
@@ -31,6 +37,17 @@ public class PlayerControls : MonoBehaviour {
             dirY = jumpHeight;
         }
         player.velocity = new Vector2(dirX, dirY);
+
+        //switch character facing if necessary 
+        if(dirX > 0 && playerFacing != "Right") {
+            transform.localScale = new Vector3(scaleX, scaleY, scaleZ);
+            playerFacing = "Right";
+        }
+        else if(dirX < 0 && playerFacing != "Left") {
+            transform.localScale = new Vector3(-scaleX, scaleY, scaleZ);
+            playerFacing = "Left";
+        }
+
     }
 
 
