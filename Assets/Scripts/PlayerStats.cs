@@ -7,7 +7,7 @@ public class PlayerStats : MonoBehaviour {
     public static int gameScore = 0;
     public static int deathCount = 0;
 
-    public static int deathScorePenalty = -1;
+    public static int deathScorePenalty = -3;
     public static Vector3 spawnPoint;
 
 
