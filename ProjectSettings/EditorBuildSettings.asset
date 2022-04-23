@@ -45,6 +45,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Graveyard Summit Levels/Graveyard_Stage5.unity
     guid: 49725a37aef704d7f977ba2c7721c3e8
   - enabled: 1
+    path: Assets/Scenes/Graveyard Summit Levels/Graveyard_Stage6.unity
+    guid: 198dacb5ad6c34c2585ed3155e9280ae
+  - enabled: 1
     path: Assets/Scenes/Lava Summit Levels/Lava_Stage1.unity
     guid: afbef751c972bfe4387c76e4d0cc0163
   - enabled: 1
@@ -56,4 +59,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lava Summit Levels/Lava_Stage4.unity
     guid: 55efba59dbb7e49e28934f3f3fdfd894
+  - enabled: 1
+    path: Assets/Scenes/Lava Summit Levels/Lava_Stage5.unity
+    guid: 4f6c029f94bd343eeaa26c983993c135
+  - enabled: 1
+    path: Assets/Scenes/Lava Summit Levels/Lava_Stage6.unity
+    guid: 37c3467b2719c4f7982312afbe8f7778
   m_configObjects: {}

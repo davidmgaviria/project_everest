@@ -21,7 +21,7 @@ public class CameraFollow : MonoBehaviour {
 
 
     // Update is called once per frame
-    void Update() {
+    void FixedUpdate() {
         //get distance of character from center of camera
         Vector2 follow = followObject.transform.position;
         float xDifference = Vector2.Distance(Vector2.right * transform.position.x , Vector2.right * follow.x );

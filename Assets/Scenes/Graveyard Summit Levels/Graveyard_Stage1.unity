@@ -258,6 +258,11 @@ PrefabInstance:
       objectReference: {fileID: 1352618066}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
+--- !u!1 &109126058 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3317778053081557333, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
+  m_PrefabInstance: {fileID: 109126057}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &140229315
 GameObject:
   m_ObjectHideFlags: 0
@@ -1119,22 +1124,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4124038365770783573, guid: 4258d1eac2ab13548a60c18c0dca18e6, type: 3}
-      propertyPath: orthographic size
-      value: 106.19673
-      objectReference: {fileID: 0}
     - target: {fileID: 4124038365770783575, guid: 4258d1eac2ab13548a60c18c0dca18e6, type: 3}
       propertyPath: followObject
       value: 
-      objectReference: {fileID: 1640647281}
-    - target: {fileID: 4124038365770783575, guid: 4258d1eac2ab13548a60c18c0dca18e6, type: 3}
-      propertyPath: followOffset.x
-      value: 160
-      objectReference: {fileID: 0}
-    - target: {fileID: 4124038365770783575, guid: 4258d1eac2ab13548a60c18c0dca18e6, type: 3}
-      propertyPath: followOffset.y
-      value: 60
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 109126058}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4258d1eac2ab13548a60c18c0dca18e6, type: 3}
 --- !u!1001 &475343864
@@ -7651,11 +7644,6 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 9052897376152267639, guid: 368ad2700a5234689a39485737f07da7, type: 3}
   m_PrefabInstance: {fileID: 1604970989}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1640647281 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3317778053081557333, guid: 578400b27e72dbb4dbe7d93245a135b0, type: 3}
-  m_PrefabInstance: {fileID: 109126057}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1657266449
 PrefabInstance:

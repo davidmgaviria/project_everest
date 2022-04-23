@@ -18322,7 +18322,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3970967303065876042, guid: 5fe987493f6234a43a3eb0ac02457c2a, type: 3}
       propertyPath: nextScene
-      value: World1Stage7
+      value: Ice_Stage6
       objectReference: {fileID: 0}
     - target: {fileID: 3970967303065876043, guid: 5fe987493f6234a43a3eb0ac02457c2a, type: 3}
       propertyPath: m_Name

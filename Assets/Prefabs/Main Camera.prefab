@@ -60,7 +60,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 125
+  orthographic size: 145
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
@@ -97,5 +97,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   followObject: {fileID: 0}
-  followOffset: {x: 195, y: 75}
-  defaultSpeed: 85
+  followOffset: {x: 235, y: 95}
+  defaultSpeed: 35
