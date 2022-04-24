@@ -8,14 +8,17 @@ public class soundManager : MonoBehaviour
     public AudioSource coinssource;
     public AudioClip coinSound;
     public AudioClip deathSound;
+
     private void Awake() {
     	instance = this;
     }
     void Start()
     {
+
     }
     
     void Update()
     {
+
     }
 }
