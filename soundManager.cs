@@ -7,17 +7,18 @@ public class soundManager : MonoBehaviour
     public static soundManager instance;
     public AudioSource coinssource;
     public AudioClip coinSound;
+    public AudioClip deathSound;
+
     private void Awake() {
     	instance = this;
     }
     void Start()
     {
-        //coinssource = getComponent<AudioSource>();
-    }
 
-    // Update is called once per frame
+    }
+    
     void Update()
     {
-        
+
     }
 }
