@@ -9,8 +9,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6971635888029618218}
-  - component: {fileID: 6971635888029618217}
-  - component: {fileID: 6971635888029618216}
+  - component: {fileID: 5232593060696458823}
+  - component: {fileID: 3515584882711583150}
   m_Layer: 0
   m_Name: Sound Manager
   m_TagString: SoundManager
@@ -32,7 +32,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6971635888029618217
+--- !u!114 &5232593060696458823
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -44,10 +44,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a61fc755089f649b5a43b64309b51d37, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  coinssource: {fileID: 6971635888029618216}
   coinSound: {fileID: 8300000, guid: b6996f8c9aa4d42749d7cd78d7283f3d, type: 3}
   deathSound: {fileID: 8300000, guid: 0121f8c54a7bc4b1cac0c4b582171bad, type: 3}
---- !u!82 &6971635888029618216
+--- !u!82 &3515584882711583150
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -60,12 +59,12 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: 039447d62e41b48ad8c9134bcca9b454, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
-  m_Pitch: 1.04
+  m_Pitch: 1
   Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 0
+  Priority: 128
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
