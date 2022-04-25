@@ -11,6 +11,7 @@ TagManager:
   - Level End
   - coin
   - CoinDisplay
+  - SoundManager
   layers:
   - Default
   - TransparentFX

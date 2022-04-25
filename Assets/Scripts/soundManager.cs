@@ -10,15 +10,10 @@ public class soundManager : MonoBehaviour
     public AudioClip deathSound;
 
     private void Awake() {
-    	instance = this;
-    }
-    void Start()
-    {
-
-    }
-    
-    void Update()
-    {
-
-    }
+    	GameObject[] musicObj = GameObject.FindGameObjectsWithTag("SoundManager");
+        if( musicObj.Length > 1) {
+            Destroy(this.gameObject);
+        }
+        DontDestroyOnLoad(this.gameObject);
+     }
 }
